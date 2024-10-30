@@ -1,0 +1,42 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+ .mimo-social-shares{
+ 	padding:1rem 0;
+ }
+
+ a.btn.btn-mimo-social:hover ,
+ a.btn.btn-mimo-social:hover span.count{
+ 	color:#ffffff;
+ 	
+ }
+
+ a.btn.btn-mimo-social.btn-mimo-count i{
+ 	margin: 0 0.5rem 0 0;
+ }
+
+ a.btn.btn-facebook.btn-secondary:hover {
+ 	background: #3b5998;
+ }
+
+ a.btn.btn-twitter.btn-secondary:hover {
+ 	background: #55acee;
+ }
+
+ a.btn.btn-google.btn-secondary:hover {
+ 	background: #dd4b39;
+ }
+
+ a.btn.btn-pinterest.btn-secondary:hover {
+ 	background: #cb2027;
+ }
+
+ a.btn.btn-youtube.btn-secondary:hover {
+ 	background: #dd4b39;
+ }
+
+ a.btn.btn-instagram.btn-secondary:hover {
+ 	background: #cd486b;
+ }
